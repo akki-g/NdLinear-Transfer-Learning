@@ -1,0 +1,3 @@
+[submodule "NdLinear"]
+	path = NdLinear
+	url = https://github.com/ensemble-core/NdLinear
